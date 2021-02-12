@@ -2,3 +2,6 @@
 contenttypes.access_list
 contenttypes.add_lists
 contenttypes.delete_list_and_record
+LIST_ADMINS_FULL_ACCESS
+	LIST_USERS_READ_ADD_RECORDS
+	SOLS_APP_ADMINS

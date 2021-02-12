@@ -1,0 +1,4 @@
+# test
+contenttypes.access_list
+contenttypes.add_lists
+contenttypes.delete_list_and_record
